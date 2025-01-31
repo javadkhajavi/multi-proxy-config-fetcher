@@ -30,7 +30,7 @@ wireguard://yEeVSPzTIqg%2FA9VChcgUrKuVLGebZIWmsGqBpz6LMXM%3D@zula.ir:3138?addres
 
 vless://423cf0ab-6beb-4b3c-9aab-1644cec421de@dd6.asalemaraghe.ir:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=dd6.asalemaraghe.ir&fp=chrome&type=ws&sni=dd6.asalemaraghe.ir#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vless://de2d2f01-5d81-4929-9941-9e32fc0b5d52@188.245.250.151:7022?security=reality&sni=refersion.com&allowInsecure=1&fp=chrome&pbk=Ty93FBT8aTnN7vuhzDqf313QBQf07X1DBcQNw9sbfEI&type=tcp&flow=xtls-rprx-vision&encryption=none#Awlix_ir Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
