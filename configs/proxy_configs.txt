@@ -28,11 +28,7 @@ wireguard://qOUjd78NUhMcmM7JVLgh2EZZUWNfl9QN12DWnVNfglM%3D@188.114.96.27:1014?ad
 
 wireguard://wAuHRUiSl%2FyofvlW9Hx0PuoAFnElx7Ox9g19f0RoaXw%3D@188.114.99.83:987?address=172.16.0.2%2F32&reserved=62%2C103%2C22&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#HELI 2025-05-14 10:03
 
-vless://1a19a724-3922-475f-9b35-9f223b5a88ba@zula.ir:8880?encryption=none&security=none&type=ws&host=join.V2RAYFAST7.iran.ir.arvancloud.ir.nett.focusontrade.ir&path=%2F%3Fed%3D2048#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.69.199.116:59483?type=grpc&mode=gun&security=none#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
-
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@172.67.204.84:443?encryption=none&security=tls&sni=ipsychO.SUEx12.Ir&fp=randomized&type=ws&host=ipsycho.suex12.ir&path=%2Fre5IzbZ9IZZMddtw%3Fed%3D2560flow%3D-udp443flow%3D-udp443#Free%20156%20%28%40Outline_Vpn%29
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.0:80?type=ws&host=redfree8.pooriashop.ir&path=/?ed%3D2560#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 
@@ -41,8 +37,6 @@ vless://55e79d77-c2ea-40ec-b10e-8deb79972c37@188.245.121.148:8081?flow=xtls-rprx
 vless://5739c92e-4e9c-47eb-8c35-15e35b88b9c3@94.177.225.237:53695?type=tcp&headerType=none&security=none#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 
 vless://588f094b-431b-422c-b80b-007945037072@89.23.118.93:443?encryption=none&security=tls&sni=ru01.abvpn.ru&fp=chrome&type=ws&host=ru01.abvpn.ru&path=%2Fwebsocket#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
-
-vless://9322430d-84fd-4fdf-808d-5c146fcde700@tgju.org:8080?encryption=none&security=none&type=ws&host=06.GDyA7g7K11.ZuLair.ORG.&path=%2F%3Fed%3D2048flow%3D-udp443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638817026935097685.amsterdam-shledrc-accc.info:8880?encryption=none&security=none&type=grpc#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
@@ -54,7 +48,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&securit
 
 vless://dfa25b43-edf2-99e4-c3b0-1aa7c9ccaa96@138.199.225.195:1152?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stackoverflow.com&pbk=EsdPQG7EdQ6yCid_OtlMfCDIRTnmFZ_ujpKbaqOiCT4&sid=4374d295a4f9dd83#(@VmessProtocol)%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA%20
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTN88J+HrfCfh7Ag6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTAzLjMwLjc2LjIxOCIsInBvcnQiOiI0NTkzOSIsInR5cGUiOiJub25lIiwiaWQiOiIyNjhmZTU5NC1jZDM1LTQwMzgtOGJjMS0xMDg2YWRhMjdmZTgiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon29
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTN88J+HrfCfh7Ag6aaZ5rivNnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTAzLjMwLjc2LjIxOCIsInBvcnQiOiI0NTkzOSIsInR5cGUiOiJub25lIiwiaWQiOiIyNjhmZTU5NC1jZDM1LTQwMzgtOGJjMS0xMDg2YWRhMjdmZTgiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon26
 
 vmess://eyJwcyI6IiglNDBWbWVzc1Byb3RvY29sKSVEOCVBOCVEOCVCMSVEOCVBNyVEQiU4QyUyMCVEOCVBRSVEOCVCMSVEQiU4QyVEOCVBRiUyMCVEOSU4OCUyMCVEOCVBNyVEOCVBQSVEOCVCNSVEOCVBNyVEOSU4NCUyMCVEOCVBRiVEOCVBNyVEOCVBNiVEOSU4NSVEQiU4QyUyMCVEOCVBQyVEOSU4OCVEQiU4QyVEOSU4NiUyMCVEOCVCNCVEOSU4OCVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCIsImhvc3QiOiIiLCJpZCI6IjEyNzVlYTE4LWJjOWMtNGJjYi1iM2ZkLWZlZTcwMjcyZTE0MyIsInBvcnQiOiIzODA4OCIsInR5cGUiOiJub25lIiwiYWRkIjoiMi41Ni4xMjUuMTAxIiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInBhdGgiOiIifQ==
 
