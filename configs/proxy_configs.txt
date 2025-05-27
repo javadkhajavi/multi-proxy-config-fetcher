@@ -42,11 +42,11 @@ vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMTAyIDEzLjZNQi9zIiwiYWRkIjoiNTEuMzguNjQuMjA5
 
 vmess://eyJhZGQiOiAiNDUuODkuMTA5LjQzIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIxMjk0N2U1Ni1hYjgwLTQzYmYtOTE0NS03MmZhNTBlNDFjOWEiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjUxMDM5IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGQxMiBWTS1UQ1AtTkEgXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IEpQLTQ1Ljg5LjEwOS40Mzo1MTAzOSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon22
 
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388#%F0%9F%8F%B3%EF%B8%8FunKnow%20(19) Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon24
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@67.220.95.29:443 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon23
 
 trojan://telegram-id-directvpn@13.36.113.249:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://telegram-id-directvpn@13.38.215.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.38.215.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
