@@ -90,6 +90,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@Peweza1.digipedia.shop
 
 ss://YWVzLTEyOC1nY206cng4OGJCMHd4dUEwMlNhaGdDYlNCS0JaaG1LVzBua1drUGFXYzZsVlI1VT0%3D@91.99.237.255:80#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay
 
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL-217.30.10.18-0359 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#Bya%20To%20%40Iran_V2ray1
 
 trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=none&fp=chrome&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#Bya%20To%20%40Iran_V2ray1
