@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-18T08:25:58.221171",
+  "timestamp": "2025-07-18T09:23:08.780424",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -10,8 +10,8 @@
     {
       "url": "https://t.me/s/v2rayvpno",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/ZibaNabz",
