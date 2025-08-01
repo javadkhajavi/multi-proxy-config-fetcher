@@ -60,15 +60,13 @@ ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#%F0%9F%87%B5%F0%9F
 
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9027 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.20:38388 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon32
-
 ss://YWVzLTI1Ni1nY206aUhhcEdZOFhvVw@154.44.15.133:44642#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles%2C%20CA%2C%20United%20States%20%282%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2F%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram-%40CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%B3%D8%B1%D9%88%20%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF%20%D8%A8%D8%A7%20%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B3%D8%B1%D8%B9%D8%AA%20%40V2rayCafe_Support%20%F0%9F%AA%BD
 
 trojan://telegram-id-directvpn@13.36.220.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 trojan://telegram-id-privatevpns@13.36.220.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@13.37.151.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.188.186.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
