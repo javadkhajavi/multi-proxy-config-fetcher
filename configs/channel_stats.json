@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-08-08T16:22:05.772741",
+  "timestamp": "2025-08-08T17:15:07.758359",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -34,8 +34,8 @@
     {
       "url": "https://t.me/s/SvnV2ray",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/RadixVPN",
