@@ -52,11 +52,7 @@ vmess://eyJhZGQiOiIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 
 vmess://eyJhZGQiOiIyMTMuMjEuMjMzLjQ2IiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6ImIyZGE5OTIwLWIwYTctNDM1NC05ZTI2LTM4MzNhYjhkMDBkMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0Ijo0NDc0OSwicHMiOiJTdG9ja2hvbG0tR2V0QUZyZWVOb2RlIiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon27
 
-vmess://eyJhZGQiOiJhY2UwNi0xLm1laXppYmE1NTY2LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiYWNlMDYtMS5tZWl6aWJhNTU2Ni5jb20iLCJpZCI6IjA4MWRiMjc0LTMxM2ItNDZkMy04YzBhLTE5NzgzNDIwOGVlYyIsIm5ldCI6IndzIiwicGF0aCI6Ii8wODFkYjI3NCIsInBvcnQiOiI0NDMiLCJwcyI6IkBWMnJheU5HVlBOIFx1MDAzY1x1MDAzZCDaqdin2YbZgduM2q8g2LHYp9uM2q/Yp9mGIiwic2N5IjoiYXV0byIsInNuaSI6ImFjZTA2LTEubWVpemliYTU1NjYuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiR2VmVkpvUExwVjdEeFVVUW9MMG12@62.133.63.21:65262#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.90.226.121:80#%40V2rayNGVPN+%3C%3D+%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
 
 trojan://telegram-id-privatevpns@13.36.201.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
