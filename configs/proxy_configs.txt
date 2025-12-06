@@ -70,8 +70,6 @@ vmess://eyJhZGQiOiJ0ZXN0LmxvbWVzbmV0LmluZm8iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 
 vmess://eyJhZGQiOiJtb3ouc2Fuc29yY2hpLm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNGRhaTFkYWUxNGVhOS5naGV5Y2hpLmJ1enoiLCJpZCI6ImVjNDE3NjkxLTQzNDctNDFkMi1iYzQxLWQzM2ZlZTg1NjRiYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90ZWwvc2Fuc29yY2hpX2JlemFuX2doZXljaGlfYm90IiwicG9ydCI6IjIwOTUiLCJwcyI6IlRlbGVncmFtIENoYW5uZWwgOiBAQ29uZmlnVjJSYXlORyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbTVHdnFLeU9Ma3ZNWWd6Z0FFMUtH@46.246.96.42:12346#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88%20%3A%20%40zibanabz
 
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#%40V2rayNGVPN%20%3C%3D%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86
@@ -88,9 +86,5 @@ trojan://telegram-id-privatevpns@13.38.42.161:22222?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-privatevpns@13.50.135.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@18.197.203.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 trojan://telegram-id-privatevpns@3.68.213.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#%40ConfigV2RayNG
-
-trojan://telegram-id-privatevpns@35.156.80.43:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
