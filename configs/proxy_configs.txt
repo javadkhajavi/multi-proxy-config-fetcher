@@ -88,7 +88,7 @@ trojan://telegram-id-privatevpns@15.236.28.119:22222?security=tls&alpn=http/1.1&
 
 trojan://telegram-id-privatevpns@18.170.53.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#ConfigV2RayNG
 
-trojan://telegram-id-privatevpns@3.72.188.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@63.176.238.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@52.29.221.21:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@63.181.207.11:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
