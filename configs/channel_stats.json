@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-01-23T09:29:13.566568",
+  "timestamp": "2026-01-23T10:23:42.875885",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
@@ -16,14 +16,14 @@
     {
       "url": "https://t.me/s/ZibaNabz",
       "enabled": true,
-      "retry_count": 1,
-      "success_rate": 50.0
+      "retry_count": 0,
+      "success_rate": 100.0
     },
     {
       "url": "https://t.me/s/configV2rayForFree",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/v2rayngvpn",
