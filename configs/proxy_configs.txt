@@ -78,6 +78,8 @@ vmess://eyJhZGQiOiI1MS4xOTUuOTEuMjciLCJhaWQiOiIwIiwiaG9zdCI6ImNoYW5uZWw6aG9wZSB2
 
 vmess://eyJhZGQiOiI4LjIxOC4xNTAuMjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjguMjE4LjE1MC4yOSIsImlkIjoiMmMzNzBiMDMtYzMyMi00ZGRjLTgxZjEtNjdhYzg0ZThkMDliIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzE1OTUiLCJwcyI6Itqp2KfZhtin2YQg2YXYpyBAdnBubWFzaSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 
+vmess://eyJhZGQiOiIxNzYuMTIwLjE3LjEwOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYXJ2YW5jbG91ZC5pciIsImlkIjoiMTJmMWM1MTMtNjIxNy00ZjhkLWIyMjctODU5MmFhMmMzYTU0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzE4MjAiLCJwcyI6IjPimqHvuI9ASktWUE4gfCDZhtiqINmF2YTbjCDwn4eu8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0= Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon41
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTY4ZTRkOTQ2YjYyMjQ1@135.125.245.131:19700#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
@@ -98,11 +100,11 @@ trojan://telegram-id-privatevpns@15.236.111.194:22222?security=tls&alpn=http/1.1
 
 trojan://telegram-id-privatevpns@15.236.72.233:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
+trojan://telegram-id-privatevpns@15.237.206.122:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+
 trojan://telegram-id-privatevpns@18.198.0.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@3.123.120.25:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@3.65.79.146:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@35.157.182.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
