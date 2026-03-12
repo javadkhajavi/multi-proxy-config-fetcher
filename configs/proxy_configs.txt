@@ -20,6 +20,8 @@ wireguard://kHw%2F60wnTgk5nQLvovlBE3TP0EeUj5EAmmgIIiYtfH0%3D@162.159.192.1:4500?
 
 wireguard://oDExiDatkgZrXKRJsDWsncBAxc3jt8SqsE9Xb8R3aEo%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=129%2C113%2C53&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 18:03
 
+wireguard://oFerwn70EneKaqtzQolzBOx7pcSZDMRa8ZyhAfMukXM%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=114%2C158%2C0&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-12 21:03
+
 wireguard://sEab8CdaDVJ3ZxQ5A%2B8tLsTjr%2B9e8V%2BszUCxf67Fe2E%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=79%2C194%2C195&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-08 18:01
 
 wireguard://wP%2FOBzswlR6r5yLpojvIxJUgVMYxDPyzYda3nT9uy0o%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=245%2C80%2C87&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-03-10 18:02
@@ -43,8 +45,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiQFNhbU5ldCAtIFVTIDE5OCIsICJhZGQiOiAiMTk4LjIzLjI0
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQFNhbU5ldCAtIFVTIDEwNyIsICJhZGQiOiAiMTA3LjE3NS4xMzQuMTI3IiwgInBvcnQiOiAiMTA0MTEiLCAiaWQiOiAiZjkxYzFjYzItMDVmZS00ZWZkLWJhMDktODZjYjZiZWMxOWUzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQFNhbU5ldCAtIFVTIDIzIiwgImFkZCI6ICIyMy45NS4xMTMuMTA0IiwgInBvcnQiOiAiMTA0MTMiLCAiaWQiOiAiZjkxYzFjYzItMDVmZS00ZWZkLWJhMDktODZjYjZiZWMxOWUzIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
-
-vmess://eyJ2IjogIjIiLCAicHMiOiAiVGVsZWdyYW06QGNvbmZpZ19wcm94eSDwn5SlIiwgImFkZCI6ICJuMTc1MzM0ODczNi5saWU1ZC5jeW91IiwgInBvcnQiOiA0NDMsICJpZCI6ICJmMjY3ZWFjMy1kZmI0LTQ1YmUtYTQ4MC03ZTE4NDdjYTA0YWIiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogImF1dG8iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon24
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7ggVVMgfCBWTUVTUyB8IEBmcmVldjJyYXlzICMxIiwiYWRkIjoieGNmMDM3LmZhY2FpMjAyNC5jb20iLCJwb3J0Ijo0NDMsImlkIjoiZDk4NjMwMzctMDQ2My00NjE1LWU5NzItMzZiYTk2NjJkMWU5IiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4Y2YwMzcuZmFjYWkyMDI0LmNvbSIsInBhdGgiOiIvZDk4NjMwMzciLCJob3N0IjoieGNmMDM3LmZhY2FpMjAyNC5jb20ifQ== Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot#Anon25
 
