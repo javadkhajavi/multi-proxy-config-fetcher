@@ -80,7 +80,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T01KSklTOUY1aXZydDdzNXNiNU5xZz09Ok9NSkpJUzl
 
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z2hWUUk0bjlpMURWODI1b1dkd2JUZz09OmdoVlFJNG45aTFEVjgyNW9XZHdiVGc9PQ==@23.95.113.104:8388#%40SamNet%20-%20US%2023-ss
 
-trojan://telegram-id-privatevpns@13.36.46.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
+trojan://telegram-id-privatevpns@13.36.29.172:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@13.37.140.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
