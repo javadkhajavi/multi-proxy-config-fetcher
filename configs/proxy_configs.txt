@@ -1,12 +1,12 @@
 wireguard://%2BKN4WWnVm6bZRiWcIgETzzJ2zhOmnN2h6uHbDM48jWY%3D@162.159.192.6:2408?address=172.16.0.2%2F32&reserved=210%2C100%2C190&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-30 18:04
 
-wireguard://0LQir8zI4SlyKa%2Bztsd1jgFlrVjKD3jmFIzSMzKpakI%3D@162.159.192.7:2408?address=172.16.0.2%2F32&reserved=161%2C95%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-29 21:03
-
 wireguard://8CcEhnchRxR8JMVofTWdO7BtpXx0QLVINfBzWwoZtns%3D@162.159.192.5:4500?address=172.16.0.2%2F32&reserved=184%2C96%2C98&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-02 18:04
 
 wireguard://EMXKaGh4Ds89P7mWv4Jh3XoVZulobkVg7m80Jw6BrnY%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=190%2C85%2C2&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-01 18:04
 
 wireguard://GEAv444DfvTsR9POQpUFk3BiOJ38D%2BRy85c%2FWV5RRGk%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=41%2C136%2C253&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-02 21:00
+
+wireguard://IEQVtFivf83nlgxQFvavOSEBubzr2dIcepRNs9s0mV0%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=130%2C214%2C115&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-04 21:00
 
 wireguard://IK7miBzNKdBv5Y%2BEyEapPDOfv6aoQ7MbtsKYkbRMq2M%3D@162.159.192.7:4500?address=172.16.0.2%2F32&reserved=238%2C73%2C2&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-05-03 10:00
 
@@ -28,27 +28,23 @@ wireguard://wHaS7ucekrYlh%2BlhJEuyj%2BPT6uRPc4QnvFy8fY38t2g%3D@162.159.192.3:240
 
 wireguard://wK9ZSxb3GMNLwDBvVpQGfRaTTfM8wosOLrd2MxZPbGU%3D@162.159.192.4:500?address=172.16.0.2%2F32&reserved=75%2C223%2C206&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-04-30 21:04
 
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?path=pabloping&security=&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#canfingV2rayNG-77 Need a premium VPN config? Try @failvpn_bot
+vless://206de0ba-cd5d-45ec-aa6d-560056d553bf@snapp.ir:80?path=%2F&security=none&encryption=none&host=iranfuture.musicritmic.ir&type=ws#NetMeli9-58 Need a premium VPN config? Try @failvpn_bot
 
-vless://44203abd-18b1-4316-b972-a37e8bbce930@tik.var.hi-phonee.ir:50216?type=ws&encryption=none&path=%2F&host=&security=none#NetMeli9-128 Need a premium VPN config? Try @failvpn_bot
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping%2F%3FTELEGRAM-irmeliy&security=&encryption=none&host=atus.pabloping.pro&type=xhttp#canfingV2rayNG-68 Need a premium VPN config? Try @failvpn_bot
 
-vless://65b13fcb-d6f8-45ed-a4d3-010234a07e55@185.143.233.5:443?path=%2Fchat%3Fed%3D128&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=an.8lack.ir&fp=firefox&type=ws&sni=an.8lack.ir#LoopLine_Ir-150 Need a premium VPN config? Try @failvpn_bot
+vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-134 Need a premium VPN config? Try @failvpn_bot
 
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=proxy.rahmancloud.ir&fp=chrome&type=ws&allowInsecure=0#canfingV2rayNG-162 Need a premium VPN config? Try @failvpn_bot
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=&encryption=none&type=ws#canfingV2rayNG-182 Need a premium VPN config? Try @failvpn_bot
+
+vless://80816cd5-dcd1-4a7b-b12d-1b8561a5f097@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#canfingV2rayNG-186 Need a premium VPN config? Try @failvpn_bot
 
 vless://a3129497-49d6-5a59-a610-cca341952320@out.radpol.ir:2052?type=ws&security=none#filembad-226 Need a premium VPN config? Try @failvpn_bot
 
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?path=%2F&security=&encryption=none&host=vixon.portab.org&type=ws#NetMeli9-248 Need a premium VPN config? Try @failvpn_bot
-
-vless://c8a390d4-743a-42d3-806c-2a4c6ee8b7df@cdn3.whitepol4.ir:2052?path=%2F&security=none&encryption=none&type=ws#NormanV2ray-267 Need a premium VPN config? Try @failvpn_bot
+vless://c92aaf9a-8dbb-4a10-93bf-0c8d3da04fc2@camp.nahidapp.com:443?path=%2FIF_VPN_Bot&security=tls&encryption=none&host=camp.nahidapp.com&type=ws#filembad-271 Need a premium VPN config? Try @failvpn_bot
 
 vless://cb05a23a-4cda-4407-e1c4-e0b421a2af8e@mmd.az99x.info:8880?path=%2F&security=&encryption=none&type=ws#NetMeli9-273 Need a premium VPN config? Try @failvpn_bot
 
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?security=tls&encryption=none&insecure=0&host=p1.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0&sni=p1.thisiswe.uno#canfingV2rayNG-313 Need a premium VPN config? Try @failvpn_bot
-
-vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@18.153.207.52:28706?security=&encryption=none&headerType=none&type=tcp#canfingV2rayNG-315 Need a premium VPN config? Try @failvpn_bot
-
-vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&encryption=none&headerType=http&type=tcp#canfingV2rayNG-313 Need a premium VPN config? Try @failvpn_bot
+vless://d1df455e-55e1-43a0-a3de-78efdb79a212@almas4.alireza031.shop:44873?path=ALMAS4&security=&encryption=none&host=D2R57.divarcdn.com%2C0ziwu.snappfood.ir%2CBXTLd.yjc.ir%2C1QjBQ.digikala.com%2C7fYt7.tic.ir&type=ws#canfingV2rayNG-277 Need a premium VPN config? Try @failvpn_bot
 
 trojan://telegram-id-privatevpns@13.36.135.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
