@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-07-13T18:43:10.348240",
+  "timestamp": "2026-07-13T20:13:55.261733",
   "channels": [
     {
       "url": "https://t.me/s/v2ray_free_conf",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     },
     {
       "url": "https://t.me/s/v2rayvpno",
@@ -58,8 +58,8 @@
     {
       "url": "https://t.me/s/freewireguard",
       "enabled": true,
-      "retry_count": 0,
-      "success_rate": 100.0
+      "retry_count": 1,
+      "success_rate": 50.0
     }
   ]
 }
