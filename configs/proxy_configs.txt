@@ -28,29 +28,23 @@ wireguard://sOFSw74FHUL6VIh00X3idxA7%2Bc%2B0PtPzT2XveizVA1Y%3D@162.159.195.9:942
 
 wireguard://yL1ohmfGKPOack6qkuz1fJn7iKmOe0VUYCKHcBys%2FWE%3D@162.159.192.18:942?address=172.16.0.2%2F32&reserved=2%2C51%2C197&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=random&wnoisecount=5&wnoisedelay=2-5&wpayloadsize=5-10#MTB 2026-09-28 21:01
 
-vless://2412bd96-925b-43f2-81d1-0ed4f0793699@31.185.105.86:443?security=reality&encryption=none&pbk=G-Fy0uWH2NeeFRM1bgEq_rdx1bV3IB9xJefI8Of-Nxc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dlcdn.apache.org&sid=ce73972832e06812#filembad-106 Need a premium VPN config? Try @failvpn_bot
+vless://0f4081e7-612b-425f-8def-eebf144aedba@176.65.144.84:443?security=reality&encryption=none&pbk=ITd6cmCxudmTvGcwnAzpd0VRe8jS9KJAQ1tmtVN3mCM&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=indigo.clouderiux.com&sid=9e15546f267baa64#filembad-79 Need a premium VPN config? Try @failvpn_bot
 
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@pl.srv.vbuste-bot.com:444?mode=gun&security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&fp=firefox&type=grpc&sni=pl.srv.vbuste-bot.com&sid=4be4110078ebed4a#filembad-140 Need a premium VPN config? Try @failvpn_bot
+vless://67bb6612-261d-47b5-811e-aa2aeb2100c7@45.39.255.74:443?mode=auto&security=reality&encryption=none&pbk=nePVxxnByjxR4YMlM8dUl1bedOy72r578aNwNJxCdDI&fp=firefox&type=xhttp&sni=yahoo.com&sid=9f3c1a7b2d8e6041#filembad-227 Need a premium VPN config? Try @failvpn_bot
 
-vless://5860b202-143f-4111-a6f6-ab94c5ef61c2@varzesh3.com:2095?path=%2Fpgcfws-r4&security=&encryption=mlkem768x25519plus.native.0rtt.rK2aQSz2wOAaLoJe61rb_TmbQxnF87VEAxGzd3TVmlY&host=dox.safari-df.ir&type=ws#ProxyMtpVPN-186 Need a premium VPN config? Try @failvpn_bot
+vless://74ed8b25-5ff1-40bf-bcd7-3db03be19f53@31.220.86.213:443?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%0A%20%20%22scMaxEachPostBytes%22%20%3A%20%224194304-8388608%22%2C%0A%20%20%22seqPlacement%22%20%3A%20%22query%22%2C%0A%20%20%22uplinkChunkSize%22%20%3A%20%2232768-65536%22%2C%0A%20%20%22uplinkHTTPMethod%22%20%3A%20%22POST%22%0A%7D&pbk=VHidBoU58xA5kEh8pmXf0gQYzvz-KVH9-XAuM4TrMUs&host=status.play.google.com&fp=ios&spx=%2F&type=xhttp&sni=status.play.google.com&sid=49bcf0de6392f0#canfingV2rayNG-248 Need a premium VPN config? Try @failvpn_bot
 
-vless://66fb823b-3de8-45a3-9060-1dc992c38cc9@188.114.97.6:80?path=%2FCooonfigCooonfigCooonfigCooonfigCooonfig&security=none&encryption=none&host=msjsi.azazilvpn.sbs.&type=ws#ProxyMtpVPN-222 Need a premium VPN config? Try @failvpn_bot
+vless://a9160eba-23cd-407d-8cb3-39a2bc43148c@45.130.125.69:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&allowinsecure=1&type=grpc&serviceName=sharghdaily.com.tasnimnews.com.yjc.ir.entekhab.ir.tasnimnews.com.isna.ir.entekhab.ir&sni=sHort-aCtIon40S8o1J3v9.SaMSUNgOVEnS.Ir#canfingV2rayNG-314 Need a premium VPN config? Try @failvpn_bot
 
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.125.162:62145?security=none&encryption=none&host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&headerType=none&type=tcp#filembad-280 Need a premium VPN config? Try @failvpn_bot
+vless://bc953469-14e8-4536-afbd-56dc8edf138a@194.59.215.131:672?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#canfingV2rayNG-340 Need a premium VPN config? Try @failvpn_bot
 
-vless://InternetAzadRobot@151.101.129.164:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv4.global.ssl.fastly.net&type=xhttp#canfingV2rayNG-292 Need a premium VPN config? Try @failvpn_bot
+vless://bdaf42dd-f75b-4594-d5f8-51c0feeb8406@k2.cloud--vpn.site:443?path=%2F&security=tls&alpn=h2&encryption=none&insecure=0&host=c12.com&fp=firefox&type=ws&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-341 Need a premium VPN config? Try @failvpn_bot
 
-vless://a08af6fb-21af-4c99-99d6-a3361e7a8456@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Fmammadalifsx&security=tls&encryption=none&insecure=0&host=mmdaliakbarali.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#canfingV2rayNG-296 Need a premium VPN config? Try @failvpn_bot
+vless://f87be415-b38b-4ca9-9688-26061d836252@trr2.banibus.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#ProxyMtpVPN-412 Need a premium VPN config? Try @failvpn_bot
 
-vless://a8c23fe7-d2bb-46ba-a14e-8847f1944642@188.114.97.6:8080?security=none&type=ws&path=/pyip=ProxyIP.SG.CMLiussss.net&host=billowing-fire-a10b.301-d6c.workers.dev&packetEncoding=xudp&encryption=none#filembad-297 Need a premium VPN config? Try @failvpn_bot
+vless://f87be415-b38b-4ca9-9688-26061d836252@trr2.banibus.ir:2087?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#ProxyMtpVPN-423 Need a premium VPN config? Try @failvpn_bot
 
-vless://d205ae68-0819-473c-b425-6c5947ac2f8d@209.127.228.114:443?security=reality&alpn=%40.networld_vpn-&encryption=none&pbk=8vqOvJ5eoG_9oHla4B3Vh1E-o39RrCXW6Wr7OcXZGmI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cars.morro-settings.ru&sid=dd#canfingV2rayNG-343 Need a premium VPN config? Try @failvpn_bot
-
-vless://e5b261f9-1491-4dfa-aee5-fcc958a1d73b@poefauscw.ir:2027?security=reality&encryption=none&pbk=jqkhdICFhCsOxkhu_kZXche0UqoNGfxVXZThFEwjnhE&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=efd5ce8d7eed1962#filembad-389 Need a premium VPN config? Try @failvpn_bot
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNFotaWt5dVdDMEQ5MjZyWndiVGhn@p2tun2.greewebservices.ir:1020#filembad-7 Need a premium VPN config? Try @failvpn_bot
-
-trojan://MiTiVPN@151.101.56.255:443?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#ProxyMtpVPN-32 Need a premium VPN config? Try @failvpn_bot
+trojan://MITIVpN@199.232.78.101:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSus---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---ss--s---mitivpn-11e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#ProxyMtpVPN-26 Need a premium VPN config? Try @failvpn_bot
 
 trojan://MiTiVPN@151.101.56.7:443?security=tls&alpn=http%2F1.1&host=mitivpn---de--s---mitivpn-2.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%88%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA%20%3A%20v2rayvpno%40===============================اگر متصل نشدی ؛ سنجاق رو چک کن اینترنت آزاد و بدون فیلترینگ حق هم مردما @Vpn_3vpn :ادمین فروش
 
